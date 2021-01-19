@@ -10,7 +10,7 @@ function chillHop() {
       audio: "https://mp3.chillhop.com/serve.php/?mp3=9272",
       color: ["#EF8EA9", "#ab417f"],
       id: uuidv4(),
-      active: false,
+      active: true,
     },
     {
       name: "Nightfall",
